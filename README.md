@@ -1,2 +1,3 @@
-# cluster
-my small heterogeneous cluster
+# DM14 Cluster
+![cluster image](doc/images/20181117_0825372.jpg)
+This is a repo where i place my cluster related configs, data etc...
