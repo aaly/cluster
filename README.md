@@ -1,3 +1,5 @@
 # DM14 Cluster
-![cluster image](doc/images/20181117_0825372.jpg)
+<img src="doc/images/20181117_0825372.jpg" alt="cluster nodes"
+	title="A cute kitten" width="450" height="300" />
+  
 This is a repo where i place my cluster related configs, data etc...
