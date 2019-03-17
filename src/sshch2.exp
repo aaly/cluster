@@ -1,0 +1,15 @@
+#!/usr/bin/expect
+set timeout 20
+set user root
+set password 1234
+set new Passmenow0
+set ip 192.168.0.101
+spawn -noecho ssh -q -o StrictHostKeychecking=no "$user\@$ip" "passwd"
+expect "assword"
+send "$password\r"
+expect "(current) UNIX password:"
+send "$password\r"
+expect "ssword:"
+send "$new\r"
+expect "assword: "
+send "$new\r"
