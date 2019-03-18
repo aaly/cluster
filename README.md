@@ -1,5 +1,8 @@
 # DM14 Cluster
-<img src="doc/images/20181117_0825372.jpg" alt="cluster nodes"
-	title="A cute kitten" width="450" height="300" />
+<center><img src="doc/images/1.jpg" alt="cluster nodes"
+	title="A cute kitten" width="450" height="300" /></center>
   
 This is a repo where i place my cluster related configs, data etc...
+
+an introductory article is available at (https://medium.com/@aaly90/a-heterogeneous-pi-cluster-6cd027acd9bf)
+
