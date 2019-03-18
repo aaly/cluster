@@ -4,5 +4,5 @@
   
 This is a repo where i place my cluster related configs, data etc...
 
-an introductory article is available at (https://medium.com/@aaly90/a-heterogeneous-pi-cluster-6cd027acd9b
+an introductory article is available at (https://medium.com/@aaly90/a-heterogeneous-pi-cluster-6cd027acd9bf)
 
